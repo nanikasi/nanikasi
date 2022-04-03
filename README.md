@@ -1,8 +1,6 @@
-# Name
+# Naoto Nakanishi
 
-Naoto Nakanishi
-
-Japanese
+Japanese University Student
 
 # Requirement
 
@@ -10,18 +8,15 @@ Japanese
 * RedBull 1.0.2
 * ZONe 1.0.8
 
-# Installation
-```
-Tweet me.
-```
-# Usage
+# How to keep in touch
 
-Code
+```
+Just Tweet Me.
+```
 
 # Author
 
 * Nakanishi Naoto
-* 42Toyko
 
 # License
 
