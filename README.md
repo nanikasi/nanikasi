@@ -13,11 +13,6 @@ Japanese University Student
 ```
 Just Tweet Me.
 ```
-
-# Author
-
-* Nakanishi Naoto
-
 # License
 
 Naoto Nakanishi is Confidential.
