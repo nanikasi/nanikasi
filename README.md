@@ -1,6 +1,6 @@
 # Naoto Nakanishi
 
-Japanese University Student
+Japanese University Student, 42tokyo
 
 # Requirement
 
