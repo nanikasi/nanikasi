@@ -16,5 +16,3 @@ Twitter: @nanaonanika
 # License
 
 Naoto Nakanishi is Confidential.
-
-![readmepet](https://readme.pet/api?username=nanikasi)
